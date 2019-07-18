@@ -1,4 +1,6 @@
 {
-    "name" : "Srinivatsav TM"
-    
+    "id" : 1,
+    "name" : "Srinivatsav TM",
+    "department" : "Commputer Science and Engineering",
+    "address" :  "CSE department"
 }
